@@ -1,7 +1,7 @@
 # 💫 About Me:
 //const name = David Evangelista ;
 <br>
-//status const  = Estudante
+//const status = Estudante
 
 
 # 💻 Tech Stack:
